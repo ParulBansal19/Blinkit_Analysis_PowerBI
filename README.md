@@ -6,3 +6,7 @@ To Conduct a comprehensive analysis of blinkkit sales performance, customer sati
 
 ## KPI's Requirements:
 
+1. Total Sales
+2. Average Sales
+3. Average Rating
+4. No. of items
