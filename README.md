@@ -10,3 +10,15 @@ To Conduct a comprehensive analysis of blinkkit sales performance, customer sati
 2. Average Sales
 3. Average Rating
 4. No. of items
+
+## Chart Requirements:
+
+1. Total sales by Fat content
+2. Total sales by Item Type
+3. Total sales by Outlet Establishment Year
+4. Fat content by outlet for Total sales
+5. Sales by Outlet Size
+6. Sales by Outlet Location
+7. All metrics by Outlet type
+
+
